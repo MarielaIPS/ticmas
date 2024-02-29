@@ -1,4 +1,4 @@
-Este trabajo fue propuesto como actividad Final en el curso de  Procesamiento de Datos con Python de la academia Tycmas en el prorama Argentina programa.
+Este trabajo fue propuesto como actividad Final en el curso de  Procesamiento de Datos con Python de la academia Tycmas en el programa Argentina programa.
 
 Ejercicio 1
 Resolver el siguiente ejercicio de programación
